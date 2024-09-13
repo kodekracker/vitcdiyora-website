@@ -207,7 +207,7 @@ a.menu__link {
     color: #fff;
 	text-transform: uppercase;
 	background: rgba(0, 155, 187, 0.37);
-	width: 29%;
+	width: 90%;
     margin: 0 auto;
     padding: 10px 0;
     border-radius: 2px;
@@ -1046,7 +1046,7 @@ i.s3{
 }
 .left-w3 {
     float: left;
-    width: 29%;
+    width: 60%;
     padding: 42px 0px;
 }
 .left-w3 a {
